@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Resolve-SemiboldWd';
+    src: url('Resolve-SemiboldWd.woff2') format('woff2'),
+        url('Resolve-SemiboldWd.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
